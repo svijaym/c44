@@ -1,0 +1,45 @@
+#container{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+#in{
+  background-color: teal;  
+  color: white;
+  padding: 5px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+#us{
+    background-color: teal;  
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  #ch{
+    background-color: teal;  
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  #uk{
+    background-color: teal;  
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+  #nz{
+    background-color: teal;  
+    color: white;
+    padding: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+  }
+#results{
+    width: 90%;
+    border: 1px solid black;
+}
